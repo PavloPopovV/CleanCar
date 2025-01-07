@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import star from "../../../assets/img/icons/star.svg";
+import star from "/icons/star.svg";
 import {
   ReviewsActiveTabs,
   ReviewsUnActiveTabs,

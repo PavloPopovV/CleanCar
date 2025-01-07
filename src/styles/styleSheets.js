@@ -1,5 +1,5 @@
 import { css } from "styled-components";
-import icon from "../assets/img/icons/arrow.svg";
+import icon from "/icons/arrow.svg";
 import { mxw, breakpoints } from "../styles/mediaquerySettings";
 
 export const Container = css`

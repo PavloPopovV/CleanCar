@@ -1,7 +1,7 @@
 import styled from "styled-components";
-import inst from "../../assets/img/icons/media/inst.svg";
+import inst from '/icons/inst.svg';
 import fb from "../../assets/img/icons/media/fb.svg";
-import tg from "../../assets/img/icons/media/tg.svg";
+import tg from "/icons/tg.svg";
 
 
 export const MediaWrapper = styled.ul`
